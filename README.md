@@ -26,7 +26,13 @@ The notebooks are organized by topic for easy navigation:
 
 ## The Numerical Methods Cookbook
 
-The `Numerical_Methods_Cookbook.ipynb` in the root directory serves as a quick-reference guide. It contains concise, from-scratch Python implementations of the key algorithms from the other notebooks, but without the detailed theoretical explanations. It's designed for anyone looking to quickly grab the core logic of a specific method.
+The `Numerical_Methods_Cookbook.ipynb` in the root directory serves as a practical, hands-on companion to the more theoretical notebooks. It is structured in two distinct phases to demonstrate both foundational understanding and flexible problem-solving.
+
+1.  **Phase 1: Core Logic, Unwrapped**
+    This section strips away the complexity of classes and functions to present the core algorithmic logic of each method in its purest form. Using only fundamental loops and NumPy array operations, these from-scratch implementations are perfect for understanding the step-by-step process of methods like Vandermonde, Lagrange, and Newton's Divided Difference without the overhead of object-oriented design.
+
+2.  **Phase 2: Algorithmic Puzzles & Analytical Thinking**
+    Moving beyond direct implementation, this phase treats numerical methods as problem-solving puzzles. It features modified versions of the standard algorithms, designed to test a more flexible and robust understanding. In some cases, a solution is provided, challenging the reader to deduce the original problem statement—simulating a reverse-engineering and analytical thinking exercise. This section showcases the ability to adapt foundational knowledge to non-standard scenarios.
 
 ## How to Use
 
