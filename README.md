@@ -30,10 +30,10 @@ For easy navigation, here is an overview of the topics covered. You can also bro
 
 - **[03_Polynomial_Interpolation](./03_Polynomial_Interpolation/)**
   - A deep dive into various techniques for fitting polynomials to data points.
-    - [Lagrange Interpolation](./03_Polynomial_Interpolation/Lagrange_Interpolation.ipynb)
-    - [Matrix Method (Vandermonde)](./03_Polynomial_Interpolation/Matrix_Method_Vandermonde.ipynb)
-    - [Newton's Divided Difference](./03_Polynomial_Interpolation/Newtons_Divided_Difference.ipynb)
-    - [Hermite Interpolation](./03_Polynomial_Interpolation/Hermite_Interpolation.ipynb)
+    - [Matrix Method (Vandermonde)](./03_Polynomial_Interpolation/1_Matrix_Method_Vandermonde.ipynb)
+    - [Lagrange Interpolation](./03_Polynomial_Interpolation/2_Lagrange_Interpolation.ipynb)
+    - [Newton's Divided Difference](./03_Polynomial_Interpolation/3_Newtons_Divided_Difference.ipynb)
+    - [Hermite Interpolation](./03_Polynomial_Interpolation/4_Hermite_Interpolation.ipynb)
 
 - **[04_Numerical_Differentiation](./04_Numerical_Differentiation/Richardson_Extrapolation.ipynb)**
   - Covers finite difference formulas (Forward, Backward, Central) and the powerful Richardson Extrapolation technique for improving accuracy.
